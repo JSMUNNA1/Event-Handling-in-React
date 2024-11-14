@@ -1,0 +1,33 @@
+.box {
+  display: flex;
+  height: 500px;
+}
+
+
+.line1 {
+  width: 100px;
+  height: 5px;
+  color: yellow;
+  cursor: pointer;
+}
+
+.line2 {
+  width: 100px;
+  height: 5px;
+  color: green;
+  cursor: pointer;
+}
+
+.line3 {
+  width: 100px;
+  height: 5px;
+  color: red;
+  cursor: pointer;
+}
+
+.line4 {
+  width: 100px;
+  height: 5px;
+  color: black;
+  cursor: pointer;
+}
